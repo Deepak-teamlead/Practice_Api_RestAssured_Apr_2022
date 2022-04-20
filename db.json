@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "author": "rocky bhai",
+      "id": "20",
+      "title": "kgf chapter 2"
+    },
+    {
+      "author": "rocky bhai",
+      "id": "21",
+      "title": "kgf chapter 2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

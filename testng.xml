@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/Deepak files/Intelij Workspace 20-1-2022/Practice_Api_RestAssured_Apr_2022/src/test/java/Practice_Package"><classes><class name="Practice_Package.Practice_Get"><methods><include name="getrequest"/></methods></class></classes></test></suite>
